@@ -1,0 +1,2 @@
+# ProxyLicker
+Setup Proxychains Shortcut
